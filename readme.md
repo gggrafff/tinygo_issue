@@ -13,7 +13,7 @@ Output:
 Hello, world
 ```
 
-## Tinyo
+## Tinygo
 ```
 $ tinygo build -o test_tinygo .
 $ ./test_tinygo
